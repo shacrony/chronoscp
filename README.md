@@ -25,7 +25,7 @@ A ferramenta foi desenvolvida com foco em:
 
 1️⃣ **Clone este repositório**
 ```bash
- git clone https://github.com/seu-usuario/chronoscp.git
+ git clone https://github.com/shacrony/chronoscp
  cd chronoscp
 ```
 
