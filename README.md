@@ -70,7 +70,6 @@ Connecting to exemplo.com|192.168.1.1|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Saving to: 'exemplo.com/index.html'
 ```
-
 ## ⚠️ Aviso Legal
 
 Esta ferramenta **não deve ser utilizada para fins ilegais ou não autorizados**. O uso indevido pode violar **leis de privacidade e segurança digital**. Utilize apenas para **fins educacionais, auditoria de segurança e análise legítima**.
